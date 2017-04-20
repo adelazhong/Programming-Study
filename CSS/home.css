@@ -1,0 +1,118 @@
+@import url("../webfonts/Pacifico/stylesheet.css");
+@import url("../webfonts/Arizonia_Regular/stylesheet.css");
+@import url("../webfonts/AlexBrush_Regular/stylesheet.css");
+
+
+#word1 {
+	font-size: 24px;
+	color: #FFF;
+}
+.index {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 30px;
+	color: #F00;
+}
+.more {
+	font-size: 12px;
+	color: #00F;
+	float: left;
+	text-align: left;
+}
+#copyright {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+#word2 {
+	font-size: 18px;
+	color: #FFF;
+}
+.flash {
+	height: 500px;
+	width: 960px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+.mid1 {
+	height: 100px;
+	width: 960px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.header {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mid2 {
+	width: 960px;
+	clip: rect(auto,auto,auto,auto);
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}
+.pic {
+	vertical-align: middle;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	top: 5px;
+	bottom: 5px;
+}
+.word3 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 18px;
+	color: #000;
+}
+.word4 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	color: #000;
+}
+#mid3 {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	top: 100px;
+}
+#music {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#line {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#line {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.word5 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 26px;
+	color: #000;
+	right: 10px;
+}
+#bottom {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}

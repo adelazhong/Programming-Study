@@ -1,0 +1,66 @@
+@charset "utf-8";
+@import url("../webfonts/Pacifico/stylesheet.css");
+
+#container {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header2 {
+	width: 755px;
+	margin: auto;
+	float: right;
+	height: 151px;
+}
+#music {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#middle {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#copyright {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.title1 {
+	font-family: Pacifico;
+	font-size: 36px;
+	color: #000;
+	text-align: center;
+	vertical-align: middle;
+}
+#line {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+}
+
+.word1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 36px;
+	color: #000;
+}
+.word2 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 16px;
+	color: #000;
+}
+#pic {
+	width: 204px;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+	height: 151px;
+}

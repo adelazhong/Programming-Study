@@ -1,0 +1,18 @@
+專題一的要求如下：
+專題須符合下列要求:
+每個網頁均須使用DIV標籤撰寫。
+須有【聯絡我們】網頁，裡面須有你的電子郵件連結，方便討論專題進度。
+至少20頁。                    
+索引頁。無索引頁者，不計分。
+每頁需設標題。
+每頁需使用CSS版面。
+部分網頁需有錨點連結。 exam
+部分網頁需自訂背景（簡單像素contact、漸層home、w無縫式exercise、…）。
+部分網頁需有背景音樂。home contact
+部分網頁需有表格。all
+w部分網頁需有導覽列。exam
+w部分網頁需有影像地圖university
+部分網頁需有三種行為動態網頁（1contact,w2history,w3story）。
+w部分網頁需有兩種擴充功能（w1al,2）。
+w部分網頁需有三種Spry特效（w1exam,2,3）。?
+w部分網頁需有使用Photoshop建立導覽列。?

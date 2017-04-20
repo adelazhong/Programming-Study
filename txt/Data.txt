@@ -1,0 +1,7 @@
+Chapter 1 Linked List
+Chapter 2 Stack
+Chapter 3 queue
+Chapter 4 Map and Dictionaries
+Chapter 5 Tree
+Chapter 6 Priority Queue
+Chapter 7 Graph

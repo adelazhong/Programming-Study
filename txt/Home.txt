@@ -1,0 +1,22 @@
+1.Bellman-Ford 
+2.Longest Common Subsequence
+3.Knapsack problem
+
+exam imformation
+CPE
+CCNA
+NCPC
+
+University imformation
+NTU
+NTHU
+NTCU
+
+Job imformation
+Google
+Microsoft
+Yahoo
+
+
+
+

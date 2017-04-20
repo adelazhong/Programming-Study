@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>stack</title>
+<style type="text/css">
+#copyright {width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header2 {width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mid {width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+body {
+	background-image: url(image/Home/back_home.png);
+	background-repeat: repeat-x;
+}
+</style>
+<link href="CSS/data.css" rel="stylesheet" type="text/css" />
+<!--Block JavaScript Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+<script language='javascript'>
+var AMV_ARRAY_ID = new Array('');
+var AMV_ARRAY_STATE = new Array('');
+function cmvSetCookie(name, value) {
+	document.cookie=name+"="+escape(value)+"; var path=/";
+}
+function cmvGetCookie(name) {
+	var prefix = name + "=";
+	var cookieStartIndex = document.cookie.indexOf(prefix);
+	if (cookieStartIndex == -1)
+		return null;
+	var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
+	if (cookieEndIndex == -1)
+		cookieEndIndex = document.cookie.length;
+	return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
+}
+function cmvSearchArray(array, str){
+	for (i=0; i<array.length; i++){
+		if (array[i]==str){
+			return i;
+			i=array.length;
+		}
+	}
+}
+function cmvUpdateArray(id){
+	var tempId='';
+	if(cmvSearchArray(AMV_ARRAY_ID,id)){
+		var i = cmvSearchArray(AMV_ARRAY_ID,id);
+		if (AMV_ARRAY_STATE[i]==1){
+			AMV_ARRAY_STATE[i]=0;
+		}else{
+			if (AMV_ARRAY_STATE[i]==0){
+				AMV_ARRAY_STATE[i]=1;
+			}
+		}
+	}else{
+		var i = AMV_ARRAY_ID.length;
+		AMV_ARRAY_ID[i]=id;
+		AMV_ARRAY_STATE[i]=1;
+	}
+	for(i=1; i<AMV_ARRAY_STATE.length; i++){
+		if (AMV_ARRAY_STATE[i]==1){
+			tempId+=','+AMV_ARRAY_ID[i];
+		}
+	}
+	cmvSetCookie('cmvId', tempId);
+}
+function xSMChangeMenu(id){
+	cmvUpdateArray(id);
+	objDaughter=document.getElementById('idBlock'+id);
+	if(objDaughter.style.display=='none'){
+		objDaughter.style.display='block';
+	}else{
+		if(objDaughter.style.display=='block'){
+			objDaughter.style.display='none';
+		}
+	}
+}
+function xSMLoadMenu(){
+	var tempArrayID;
+	tempArrayID=cmvGetCookie('cmvId');
+	if(tempArrayID!=null){
+		tempArrayID=tempArrayID.split(',');
+		for(i=1; i<tempArrayID.length; i++){
+			xSMChangeMenu(tempArrayID[i]);
+		}
+	}
+}
+</script>
+<!--End block JavaScript Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+<!--Block CSS Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+<style type="text/css" title="xSM_style_3">
+<!--
+#sectionLinksLevel1 a{
+	display: block;
+	text-decoration: none;
+}
+
+#sectionLinksLevel1 a:link, #sectionLinksLevel1 a:visited {
+	font-size:12px;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #666666;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	padding: 9px 5px 9px 5px;
+	color:#FFFFFF;
+}
+
+#sectionLinksLevel1 a:hover{
+	background-image:url(xSM/bg_sky_hover.jpg);
+	font-size:12px;
+	border-top: 1px solid #666666;
+	border-bottom: 1px solid #CCCCCC;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	padding: 9px 5px 9px 5px;
+	color:#006699;
+}
+
+-->
+</style>
+<!--End block CSS Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+</head>
+<body onLoad="xSMLoadMenu()" >
+<div id="header">
+  <div id="header">
+    <div id="header2"><img src="image/Home/title.png" width="960" height="150" alt="image" /></div>
+    <div id="header3">
+      <table width="960" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="358"><a href="Data.html"><img src="image/Home/data_pre.png" width="152" height="151" alt="image" /></a></td>
+          <td width="442" height="151" class="word_d">Chapter 2 Stack</td>
+          <td width="161" height="151"><a href="index.html"><img src="image/contact/home.png" width="159" height="151" alt="image" /></a></td>
+        </tr>
+      </table>
+    </div>
+    <div id="mid">
+    <hr />
+    <table width="940" border="0" cellspacing="20" cellpadding="0">
+      <tr>
+        <td width="300"><!--Block HTML Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+          <!--Block HTML Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+          <!--Block HTML Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+          <table id="tabelIdxSM" background="xSM/bg_sky3.jpg" width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td><div id="sectionLinksLevel1"><span class="word_d"><A id="nodeName1" href="Linked.html"  ><nobr>Chapter 1 Linked List</nobr></A><A id="nodeName2" href="stack.html"  ><nobr>Chapter 2 Stack</nobr></A><A id="nodeName3" href="queue.html"  ><nobr>Chapter 3 queue</nobr></A><A id="nodeName4" href="#none"  ><nobr>Chapter 4 Map and Dictionaries</nobr></A><A id="nodeName5" href="#none"  ><nobr>Chapter 5 Tree</nobr></A><A id="nodeName6" href="#none"  ><nobr>Chapter 6 Priority Queue</nobr></A><A id="nodeName7" href="#none"  ><nobr>Chapter 7 Graph</nobr></A></span></div></td>
+            </tr>
+            
+          </table></td>
+        <td width="140"><embed src="swf/顺序栈（8个存储空间）.swf" width="600" height="400"></embed></td>
+      </tr>
+    </table>
+    <!--End block HTML Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+    <td width="600">&nbsp;</td>
+    <!--End block HTML Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+    <td><p><br />
+    </p></td>
+    <!--End block HTML Style Menu - Copyright 2006 Development-Tools, Inc. All rights reserved.-->
+    <div id="copyright"><img src="image/Home/copyright.png" width="960" height="40" alt="image" /></div>
+  </div>
+</div>
+</body>
+</html>

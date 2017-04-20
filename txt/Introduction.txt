@@ -1,0 +1,13 @@
+Programming languages
+Evolution
+Translation
+Programming paradigms
+Common concepts
+History
+Pascal
+C/C++
+Java
+Interesting stories
+Do you know who is the first person to porgarm?
+Do you know who is Graham's Scan?
+

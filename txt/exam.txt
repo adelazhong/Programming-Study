@@ -1,0 +1,152 @@
+CPE
+大學生程式能力鑑定Collegiate Programming Examination
+
+
+
+電腦證照─程式設計類
+Visual Basic程式設計實用級
+考試內容：
+1、實作題4題 
+2、單複選擇題 70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+
+Visual Basic程式設計進階級
+考試內容：實作題4題70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+
+Visual Basic程式設計專業級
+考試內容：
+1、實作題4題 
+2、單複選擇題 70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+考試相關資訊： 請按此
+Visual Basic軟體開發進階級
+考試內容：實作題4題 70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+
+Visual Basic軟體開發專業級
+考試內容： 
+1、實作題4題 
+2、單複選擇題30題 70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+
+JAVA程式設計實用級
+考試內容：實作題2題 70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+
+JAVA程式設計進階級
+考試內容：實作題3題 70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+
+JAVA程式設計專業級
+考試內容： 
+1、實作題4題 
+2、單複選擇題20題 70分以上合格
+主辦單位：中華民國電腦技能基金會TQC 採用線上報名，請至TQC線上報名系統報名
+
+
+
+
+程式設計競賽
+全國大專電腦軟體設計競賽
+縮寫：NCPC
+對象：大專院校學生
+水平：★
+時間：9～10月
+主辦：教育部
+承辦：由臺灣師範大學與中山大學輪流辦理
+台灣主要大專院校近十年來不遺餘力，積極爭取到 ACM-ICPC 區域賽的舉辦權。同時台灣教育部也創辦了性質類似的「全國大專電腦軟體設計競賽」，藉此發掘優秀選手，補助參加 ACM-ICPC 。
+比賽分為兩組進行：程式設計組仿照 ACM-ICPC 的比賽模式；軟體設計組則與 ACM-ICPC 無關。
+根據規定， ACM-ICPC 區域賽必須要有全國性（或者兩省以上）的預賽。台灣歷年都是以 NCPC 作為預賽，然而實際上 NCPC 根本就不是預賽。會有這種現象，主要原因是台灣的參賽隊伍十分稀少，無從篩選隊伍。
+
+全國私立大專院校程式競賽
+縮寫：NCPU
+對象：私立大專院校學生
+水平：★
+時間：6月
+主辦：Association for Computing Machinery
+承辦：各私立大學輪流辦理
+台灣的大專院校堪稱全世界密度最高，然而 ACM-ICPC 台灣賽區的參賽情況並不踴躍，是全亞洲最少的。有鑑於此，主辦單位特別在台灣舉辦私立學校的比賽，鼓勵學生參與比賽。
+ACM International Collegiate Programming Contest
+http://icpc.baylor.edu/ 
+縮寫：ACM-ICPC
+對象：大專院校學生（學士班一年級到碩士班一年級之學生）
+水平：台灣賽區★。亞洲各賽區★～★★。總決賽★★★。
+時間：台灣賽區11～12月。亞洲各賽區是8～12月。世界總決賽是隔年6～7月。
+主辦：Association for Computing Machinery
+承辦：台灣賽區由台灣大專院校輪流承辦
+部分內容請參考「 Online Judge System 源起」。
+
+資訊界規模最大、歷史最悠久的競賽，最近幾屆競賽皆有上千所學校、數萬名選手參加。
+
+ACM-ICPC 是一個氣氛相當活潑，非常具有特色的競賽。一場 ACM-ICPC 的賽事，由許多活動所組成，主軸當然是現場上機競賽，另外還有安排晚餐宴會、娛樂表演、城市遊覽等行程。整個賽程為期兩至三天，過程有吃有玩，遊樂的成分比競賽的成分還多，對於參賽選手來說是相當新鮮的體驗。活動細節請參考歷年的 ACM-ICPC 區域賽網站。
+ACM-ICPC 的競賽方式是三人一隊，並且要有一位同校教授作為領隊教練。教練的主要作用，是負責向大會接洽賽事行程，替選手打點賽事期間的生活細節，讓選手無後顧之憂，得以傾盡全力比賽，教練就如同經紀人的角色。另外，報名時可以額外登記一名後備隊員，發生緊急狀況時得替補上陣。
+現場上機競賽的過程，是所有隊伍聚集於會場，一支隊伍分配一張桌子、三張椅子、一臺電腦、一份英文題本。開賽後所有隊伍同時開始作答，選手必須迅速調校好電腦環境，然後編寫程式解決問題，將程式碼上傳給裁判批改。
+所有作答皆是即時批改，幾分鐘內回覆結果，結果只有對與錯兩大類，答錯還可以再答。成績的計算方式，是以答對題數作為主要的排名依據；但是作答的錯誤次數、上傳答案的時刻，統統列入扣分，最後作為次要的排名依據。因此選手除了要盡力答出問題，也要盡快答出問題，還要盡量避免答錯問題又一錯再錯。實力在伯仲之間的隊伍，勝負的差距往往取決於審題與答題的效率。動作慢人一步，或者大意發生失誤，就很可能名落千丈。
+選手有五小時時間，要解出十道左右的演算法問題，期間可以喝水、外出上廁所、享用大會提供的奢華點心、在題本上塗鴉、把題本拆了摺紙鶴、睡覺、談情說愛、玩電腦遊戲；唯一的限制，就是不得與隊伍之外的人交流。
+比賽規則看似輕佻，但是事實上，五小時時間解十道左右的題目，電腦卻只有一臺，所以比賽過程是非常緊迫的，就算是技藝高超的選手，也幾乎無暇休息，必須分工合作、爭取時間。通常是一人隨時坐在電腦前作答，充分運用電腦，發揮時效；另外兩人則在旁解讀其餘題目，在腦中羅織解法，伺機輪換上陣。五小時的比賽過程，選手克服環境限制、調適心理壓力、發揮大腦潛能，也可以說是一場精神的對抗賽。
+至於教練必須在會場外等待，不得與選手交談。不過教練們可以彼此交流，也可以觀戰和吃點心。現場上機競賽可以說是教練在整個賽程當中最輕鬆的時刻，也是辛苦之後驗收成果的時刻。
+現場上機競賽還有許許多多的有趣的地方，此處只做初步介紹，詳細過程留給各位選手們自行體驗吧！
+
+TopCoder Open
+http://community.topcoder.com/tco14/
+對象：一般大眾
+水平：★★★
+時期：4月～8月
+主辦：TopCoder
+TopCoder 一年一度的公開賽，比賽項目相當多元，其中一個項目是演算法競賽。 TopCoder Open 已經舉辦了好幾屆，是世界聞名的賽事。
+
+Facebook Hacker Cup
+http://www.facebook.com/hackercup
+對象：一般大眾
+水平：★★
+時期：11月～2月
+主辦：Facebook
+2011 年才興起的比賽，性質與 Google Code Jam 相同。取名為 Hacker Cup 恐怕只是為引人耳目，實際上與資訊安全完全無關。
+
+Internet Problem Solving Contest
+http://ipsc.ksp.sk/
+對象：一般大眾
+水平：★★★
+時期：5～6月
+解決一些稀奇古怪問題的比賽。
+
+Kaggle
+http://www.kaggle.com/competitions
+近年新興的線上競賽網站，專注於資料分析與預測。
+
+高級中學資訊學科能力競賽
+102 學年度、 101 學年度、 100 學年度
+對象：高中學生
+水平：★
+時期：11～12月
+主辦：教育部針對全國高中生所舉辦的資訊能力競賽
+承辦：總決賽由清華大學與交通大學輪流辦理
+首先會在各縣市、各區域舉辦初賽，成績優異者得參加全國總決賽。
+
+以往的比賽內容是資訊學科的基本知識，加上基礎程式設計；但是近年來卻有演算法競賽化的趨勢。
+
+網際網路程式設計全國大賽
+http://contest.cc.ntu.edu.tw/
+縮寫：NPSC
+對象：高中學生、國中學生
+水平：★★
+時期：11～12月
+主辦：國家科學委員會針對全國高中生所舉辦的演算法程式設計能力競賽
+承辦：台灣大學
+獎品相當豐厚的比賽。比賽題目亦相當有特色。網路上亦有專門的討論區「 NPSC 補完計劃」。
+
+百度之星
+http://astar.baidu.com/
+對象：大學生
+水平：★
+時期：3～5月
+主辦：百度公司
+中國最大的搜尋引擎公司舉辦的全國性比賽。題目類型有演算法、也有軟體設計。
+
+編程之美
+對象：大學生
+水平：★★
+時期：4～5月
+主辦：微軟亞太研發集團
+微軟亞太研發集團在中國舉辦的全國性比賽。

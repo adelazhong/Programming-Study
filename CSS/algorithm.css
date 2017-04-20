@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import url("../webfonts/Pacifico/stylesheet.css");
+
+#header {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.title_a {
+	font-family: Pacifico;
+	font-size: 36px;
+	color: #06F;
+}
